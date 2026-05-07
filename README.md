@@ -34,22 +34,22 @@ The dashboard provides:
 # 📸 Project Screenshots
 
 ## 📊 Main Dashboard
-![Dashboard](./Dashboard.png)
+![Dashboard](https://github.com/ridhima2698mba25fin-spec/excel/blob/main/WhatsApp%20Image%202026-05-07%20at%202.00.28%20PM.jpeg)
 
 ---
 
 ## 🗂️ Category Guide
-![Category Guide](./category_guide.png)
+![Category Guide](https://github.com/ridhima2698mba25fin-spec/excel/blob/main/WhatsApp%20Image%202026-05-07%20at%202.00.29%20PM.jpeg)
 
 ---
 
 ## 👥 Customer Summary
-![Customer Summary](./customer_summary.png)
+![Customer Summary](https://github.com/ridhima2698mba25fin-spec/excel/blob/main/WhatsApp%20Image%202026-05-07%20at%202.00.30%20PM.jpeg)
 
 ---
 
 ## 💳 Customer Transaction Analysis
-![Customer Transaction](./customer_transaction.png)
+![Customer Transaction](https://github.com/ridhima2698mba25fin-spec/excel/blob/main/1.jpeg)
 
 ---
 
